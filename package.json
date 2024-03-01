@@ -1,7 +1,12 @@
 {
   "name": "get-data-4th",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
+  "homepage": "https://github.com/zibuthe7j/get-data-4th/tree/master",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/zibuthe7j/get-data-4th/tree/master.git"
+  },
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
