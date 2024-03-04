@@ -1,11 +1,11 @@
 {
   "name": "get-data-4th",
-  "version": "1.0.2",
+  "version": "1.0.1",
   "description": "",
   "homepage": "https://github.com/zibuthe7j/get-data-4th/tree/master",
   "repository": {
     "type": "git",
-    "url": "git://github.com/zibuthe7j/get-data-4th/tree/master.git"
+    "url": "https://github.com/zibuthe7j/get-data-4th/tree/master"
   },
   "main": "index.js",
   "scripts": {
